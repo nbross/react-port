@@ -32,3 +32,14 @@ export const projects = [
         link: "https://nbross.github.io/The_Better_Portfolio/",
     },
 ];
+
+export const skills = [
+    "JavaScript",
+    "React",
+    "Express.js",
+    "Node.js",
+    "HTML",
+    "CSS",
+    "SQL",
+    "MongoDB",
+];
