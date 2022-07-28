@@ -24,12 +24,12 @@ export const projects = [
         link: "https://hidden-mesa-12283.herokuapp.com/",
     },
     {
-        title: "My Better Portfolio",
-        subtitle: "HTML, CSS, JS",
+        title: "Cinema Hub",
+        subtitle: "MERN SPA",
         description:
-            "A create and beautiful portfolio showcasing my stuff, personally I think it looks better than this.",
-        image: "./2022-07-10.png",
-        link: "https://nbross.github.io/The_Better_Portfolio/",
+            "A movie search engine that allows users to create and add movies to their watchlist.",
+        image: "https://etimg.etb2bimg.com/photo/78611994.cms",
+        link: "https://cinema-hub-app.herokuapp.com/",
     },
 ];
 
